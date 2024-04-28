@@ -1,0 +1,12 @@
+*Sofa and Chair Problem (sitting and lying) unneccesary features
+
+
+
+*COnfusion matrix apply
+*precesion recall + F1 score
+*Accuracy
+
+** real time violence detections (minimum cost) camera providing +real timing detection instant notification
+
+#sug for necesary things to learns and do to reinforce the research 
+and steps...
